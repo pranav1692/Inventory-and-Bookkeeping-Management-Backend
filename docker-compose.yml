@@ -11,4 +11,4 @@ services:
     ports:
     - "27017:27017"
     volumes:
-    - D:/Ganu/Codes/nodeintern/data/:/data/db
+    - D:/Ganu/Codes/nodeintern/data/:/data/dbpranav
